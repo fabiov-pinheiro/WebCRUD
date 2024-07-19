@@ -1,0 +1,6 @@
+@AdmPortal_HostAddress = http://localhost:5201
+
+GET {{AdmPortal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
